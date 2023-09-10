@@ -1,1 +1,1 @@
-# FER Deep Learning course -- laboratory asignments
+# FER Deep Learning course - laboratory assignments
